@@ -1,6 +1,4 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+	{ "id:": "0", "title": "Test Title", "text": "Test text" },
+	{ "id": 1, "title": "SOGGY G", "text": "GO SICKO MODE" }
 ]
